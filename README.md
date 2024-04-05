@@ -10,6 +10,15 @@ Repositório para armazenar comandos do Git e GitHub do curso de Versionamento d
 
 ## 💻 Comandos do Git
 
+### Configurar o Git
+| Comandos | Descrição |
+|----------|-----------|
+|`git config --global user.name "(nome de usuario git)"`|Configurar o usuário Git|
+|`git config --global user.email "(email do usuario git)"`|Configurar o email do git|
+|`git config init.defaultBranch`|Verifical a branch padrão|
+|`git config --global init.defaultBranch main`|Mudar a branch padrão para **main**|
+|`git config --global --list`|Verificar as informações de Configuração|
+
 ### Criar ou Clonar Repositório
 | Comandos | Descrição |
 |----------|-----------|
@@ -47,3 +56,4 @@ Repositório para armazenar comandos do Git e GitHub do curso de Versionamento d
 |----------|-----------|
 |`git status`|Verificar se o projeto possui alterações|
 |`git log`|Verificar o histórico de commit do projeto|
+
