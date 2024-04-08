@@ -14,10 +14,12 @@ Repositório para armazenar comandos do Git e GitHub do curso de Versionamento d
 | Comandos | Descrição |
 |----------|-----------|
 |`git config --global user.name "(nome de usuario git)"`|Configurar o usuário Git|
-|`git config --global user.email "(email do usuario git)"`|Configurar o email do git|
+|`git config --global user.email "(email do usuario git)"`|Configurar o email do Git|
 |`git config init.defaultBranch`|Verifical a branch padrão|
 |`git config --global init.defaultBranch main`|Mudar a branch padrão para **main**|
 |`git config --global --list`|Verificar as informações de Configuração|
+|`git config --global --unset user.name`|Remover o nome de usuário Git|
+|`git config --global --unset user.email`|Remover o email do Git|
 
 ### Criar ou Clonar Repositório
 | Comandos | Descrição |
