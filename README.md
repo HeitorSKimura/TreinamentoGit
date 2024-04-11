@@ -63,10 +63,10 @@ Repositório para armazenar comandos do Git e GitHub do curso de Versionamento d
 | Comandos | Descrição |
 |----------|-----------|
 |`mkdir (pasta)`|Criar um pasta|
-|`cd (local)`|Alterar local do cmd|
+|`cd (local)`|Alterar local do powershell ou gitBash|
 |`ls`|Lista itens da pasta|
 |`cat .git`|Verificar conteudo do arquivo .git|
-|`clear`|Limpar os comandos no cmd|
+|`clear`|Limpar os comandos no powershell ou gitBash|
 |`touch README.md`|Criar um arquivo .md|
 |`rm -rf .git`|Deletar arquivo .git|
 |`echo (local) > .gitignore`|Inserir pasta no .gitignore (para arquivos que não devam ser salvos)|
