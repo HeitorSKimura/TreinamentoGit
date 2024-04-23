@@ -39,6 +39,7 @@ Repositório para armazenar comandos do Git e GitHub do curso de Versionamento d
 |`git commit -m"(commit)"`|Salvar as Alterações|
 |`git push origin main`|Salvar as alterações no repositório remoto|
 |`git restore (arquivo)`|Voltar ultima alteração salva do arquivo|
+|`git rm -r --cached (arquivo)`|Remover arquivo apenas do diretório do git. Não local|
 
 ### Trabalhar com Branches
 | Comandos | Descrição |
